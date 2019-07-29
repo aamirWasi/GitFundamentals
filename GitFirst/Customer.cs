@@ -5,9 +5,9 @@
         public string Name { get; set; }
         public int ID { get; set; }
         public double Salary { get; set; }
-        public double GetBonus()
+        public double GetBonus(double salary)
         {
-            return 0.15 * Salary;
+            return 0.25 * salary;
         }
     }
 }
