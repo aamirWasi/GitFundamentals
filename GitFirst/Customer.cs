@@ -9,9 +9,5 @@
         {
             return 0.15 * Salary;
         }
-        public double GetBonus(double salary)
-        {
-            return 0.35 * salary;
-        }
     }
 }
