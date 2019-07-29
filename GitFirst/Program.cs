@@ -16,6 +16,13 @@ namespace GitFirst
             //Added this line of code from vscode
             //Added Feature 1 
             //Added Customer Class in Feature1 Branch
+            //Added Array sum
+            int sum = 0;
+            int[] arrSum = new int[] { 1, 2, 3, 4, 5, 6, 7 };
+            foreach (var item in arrSum)
+            {
+                sum += item;
+            }
         }
     }
 }
