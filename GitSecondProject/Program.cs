@@ -21,6 +21,7 @@ namespace GitSecondProject
                 sum += item;
             }
             Console.WriteLine(sum);
+            //Code was updated by Green
         }
     }
 }
