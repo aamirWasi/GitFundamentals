@@ -25,6 +25,9 @@ namespace GitFirst
             }
             //Code to call feature 2
             //Code to call feature 3
+
+            //Code to call from feature 3
+            //Added this lines of code
         }
     }
 }
