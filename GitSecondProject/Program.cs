@@ -11,6 +11,7 @@ namespace GitSecondProject
         static void Main(string[] args)
         {
             //Anonymous Type
+            //Added two more class in Anonymous project
             var person = new
             {
                 FirstName = "aamirWasi",
