@@ -1,4 +1,6 @@
-﻿namespace GitFirst
+﻿using System.Collections.ObjectModel;
+
+namespace GitFirst
 {
     public class Customer
     {
@@ -9,5 +11,8 @@
         {
             return 0.25 * salary;
         }
+
+        
+        
     }
 }
