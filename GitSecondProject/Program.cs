@@ -10,6 +10,8 @@ namespace GitSecondProject
     {
         static void Main(string[] args)
         {
+            //Added a console
+            Console.WriteLine("Hello world");
         }
     }
 }
