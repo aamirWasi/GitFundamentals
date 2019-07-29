@@ -9,5 +9,11 @@
         {
             return 0.25 * salary;
         }
+        //Added a Sub Method
+        public int Sub(int x, int y)
+        {
+            return x - y;
+        }
+        
     }
 }
