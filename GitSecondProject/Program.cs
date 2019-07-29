@@ -14,7 +14,12 @@ namespace GitSecondProject
             Console.WriteLine("Hello world");
             //Added a comment from github
             //Updated
-
+            int[] NumOfArray=new int[]{1,2,3,4,5,6,7};
+            int sum=0;
+            Foreach(var item in NumOfArray){
+                sum+=item;
+            }
+            Console.WriteLine(sum);
         }
     }
 }
