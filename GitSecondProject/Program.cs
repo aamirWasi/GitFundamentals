@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace GitSecondProject
 {
-    public class Assignment
-    {
-
-    }
     class Program
     {
         static void Main(string[] args)
