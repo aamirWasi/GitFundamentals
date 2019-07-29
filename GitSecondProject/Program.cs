@@ -16,8 +16,9 @@ namespace GitSecondProject
             //Updated
             int[] NumOfArray=new int[]{1,2,3,4,5,6,7};
             int sum=0;
-            Foreach(var item in NumOfArray){
-                sum+=item;
+            foreach (var item in NumOfArray)
+            {
+                sum += item;
             }
             Console.WriteLine(sum);
         }
