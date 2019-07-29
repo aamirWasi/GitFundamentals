@@ -13,6 +13,7 @@ namespace GitFirst
             Console.WriteLine("Hello git");
             Console.WriteLine("Try to learn you absoulately in fine way");
             //Added that line of codein github
+            //Added this line of code from vscode
         }
     }
 }
