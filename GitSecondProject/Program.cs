@@ -13,6 +13,7 @@ namespace GitSecondProject
             //Added a console
             Console.WriteLine("Hello world");
             //Added a comment from github
+            //trying to update
         }
     }
 }
