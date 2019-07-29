@@ -5,9 +5,9 @@
         //This is important for every group members
         public int Add()
         {
-            int x = 1;
-            int y = 2;
-            int sum = x + y;
+            var x = 1;
+            var y = 2;
+            var sum = x + y;
             return sum;
         }
     }
