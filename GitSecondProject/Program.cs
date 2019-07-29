@@ -10,6 +10,14 @@ namespace GitSecondProject
     {
         static void Main(string[] args)
         {
+            //Anonymous Type
+            var person = new
+            {
+                FirstName = "aamirWasi",
+                LastName = "Morshed",
+                Age = 23
+            };
+            Console.WriteLine($"{person.FirstName} {person.LastName}");
             //Code to call at DevAamir
             //Added a console
             //Code to call Aspdotnetcore Group
