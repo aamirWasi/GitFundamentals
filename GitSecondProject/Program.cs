@@ -10,6 +10,17 @@ namespace GitSecondProject
     {
         static void Main(string[] args)
         {
+
+            //Started Interfaces
+
+            var missle = new Missle();
+            missle.Fire();
+
+            var gun = new MachineGun();
+            gun.Fire();
+
+
+            //Ended Interfaces
             //Anonymous Type
             //Added two more class in Anonymous project
             var person = new
