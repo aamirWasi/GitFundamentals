@@ -19,7 +19,15 @@ namespace GitSecondProject
             var gun = new MachineGun();
             gun.Fire();
 
-
+            var weapons = new Weapon[]
+            {
+                new Missle(),
+                new MachineGun()
+            };
+            foreach (var weapon in weapons)
+            {
+                weapon.Fire();
+            }
             //Ended Interfaces
             //Anonymous Type
             //Added two more class in Anonymous project
