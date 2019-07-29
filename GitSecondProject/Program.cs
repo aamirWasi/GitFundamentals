@@ -11,6 +11,7 @@ namespace GitSecondProject
         static void Main(string[] args)
         {
             //Added a console
+            //Code to call Aspdotnetcore Group
             Console.WriteLine("Hello world");
             //Added a comment from github
             //Updated
