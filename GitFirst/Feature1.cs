@@ -2,11 +2,9 @@
 {
     public class Feature1
     {
-        public int Add()
+        public int Add(int x,int y)
         {
-            int x = 1;int y = 2;
-            int sum = x + y;
-            return sum;
+            return x + y;
         }
     }
 }
