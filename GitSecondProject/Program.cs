@@ -22,6 +22,7 @@ namespace GitSecondProject
             }
             Console.WriteLine(sum);
             //Code was updated by Green
+            //Now code was updated in vscode
         }
     }
 }
