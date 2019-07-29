@@ -10,6 +10,8 @@ namespace GitFirst
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello git");
+            Console.WriteLine("Try to learn you absoulately in fine way");
         }
     }
 }
