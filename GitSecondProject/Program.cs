@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace GitSecondProject
 {
+    public class Assignment
+    {
+
+    }
     class Program
     {
         static void Main(string[] args)
@@ -23,6 +27,7 @@ namespace GitSecondProject
             Console.WriteLine(sum);
             //Code was updated by Green
             //Now code was not updated but edited in vscode
+            //Added Assignment project in vs
         }
     }
 }
